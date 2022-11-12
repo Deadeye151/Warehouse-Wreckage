@@ -88,7 +88,12 @@
 				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/Untitled.umap",
 				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/BP_Projectile.uasset",
 				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/StarterContent/Maps/Minimal_Default.umap",
-				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/Main.umap"
+				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/Main.umap",
+				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
+				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel01.uasset",
+				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel02.uasset",
+				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/IndustryPropsPack6/Meshes/SM_Barrel03.uasset",
+				"D:/UE_5.1/Class Work/Warehouse Wreckage/WarehouseWreckage/Content/BP_Barrel.uasset"
 			]
 		}
 	]
